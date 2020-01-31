@@ -1,5 +1,5 @@
 #include "someHeader.h"
-#inclide <iostream>
+#include <iostream>
 int main()
 {
 Hello hello = Hello();
