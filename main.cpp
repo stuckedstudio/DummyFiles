@@ -2,6 +2,5 @@
 #inclide <iostream>
 int main()
 {
-std::cout << "Hello World!" << std::endl;
-
+Hello hello = Hello();
 }
